@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hi there! 👋 
+### I am an individual node runner with experience of working with nodes on Cosmos network. Crypto enthusiast, 24hr management & monitoring using Grafana!
 
-<!--
-**lobanox/lobanox** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Active Testnets:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- [Chainflip](https://blocks-perseverance.chainflip.io/validator/cFJEiKb2qJS6QogxsLuDY3wknfNYvLWN6eHpEW2VvAnzbvURD)
+- [DeFund](https://defund.explorers.guru/validator/defundvaloper1m0dw0wzsrvd9rgrv5ve9gqtkfspm4jah75j0n9)
+- [Lambda Network]()
+- [Exorde]()
+- [Minima]()
+
+
+
